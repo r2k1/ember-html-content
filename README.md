@@ -16,7 +16,7 @@ This addon adds fast transition behavior to links presented in html.
 
 If you're like me and don't like external dependency you can simply create 2 files:
 
-app/components/html-content/component.js
+`app/components/html-content/component.js`
 ```
 import Ember from 'ember';
 
@@ -39,7 +39,7 @@ export default Ember.Component.extend({
 });
 ```
 
-app/component/html-content/template.hbs
+`app/component/html-content/template.hbs`
 ```
 {{{content}}}
 ```
