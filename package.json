@@ -1,6 +1,6 @@
 {
   "name": "ember-html-content",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Add transition support to <a></a> tags in html",
   "directories": {
     "doc": "doc",
