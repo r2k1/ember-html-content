@@ -10,7 +10,7 @@ This addon adds fast transition behavior to links presented in html.
 
 ## Installation
 
-`ember install ember-font-awesome`
+`ember install ember-html-content`
 
 ### Alternative installation
 
